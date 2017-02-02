@@ -22,9 +22,11 @@ Install with composer:
 
 ### Example
 
-Here is what a `User::byPassportCustomRequest()` method might look like...
+Here is what a `User::byPassportCustomRequest()` method might look like. Also, make sure you include `Illuminate\Http\Request` in your model.
 
 ```php
+use Illuminate\Http\Request;
+
 /**
  * Verify and retrieve user by custom token request.
  *
