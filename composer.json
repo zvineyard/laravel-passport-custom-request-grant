@@ -1,8 +1,8 @@
 {
-    "name": "vineyard/passport-custom-request-grant",
-    "description": "Custom Request Grant for Laravel Passport",
+    "name": "vineyard/laravel-passport-custom-grant",
+    "description": "LDAP Grant for Laravel Passport",
     "license": "MIT",
-    "keywords": ["laravel", "lumen", "passport", "oauth", "grant", "api"],
+    "keywords": ["laravel", "lumen", "passport", "oauth", "grant", "ldap"],
     "authors": [
         {
             "name": "Zac Vineyard",
