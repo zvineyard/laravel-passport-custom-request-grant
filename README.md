@@ -2,7 +2,11 @@
 
 Install with composer:
 
-`composer require Vineyard/passport-custom-request-grant`
+```
+"require": {
+    "vineyard/passport-custom-request-grant": "1.0.*"
+}
+```
 
 ## Setup
 
