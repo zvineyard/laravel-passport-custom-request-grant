@@ -1,0 +1,20 @@
+{
+    "name": "vineyard/passport-custom-request-grant",
+    "description": "Custom Request Grant for Laravel Passport",
+    "license": "MIT",
+    "keywords": ["laravel", "lumen", "passport", "oauth", "grant", "api"],
+    "authors": [
+        {
+            "name": "Zac Vineyard",
+            "email": "zacvineyard@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vineyard\\Passport\\": "src"
+        }
+    },
+    "require": {
+        "laravel/passport": "2.0.*"
+    }
+}
